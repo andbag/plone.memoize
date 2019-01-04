@@ -63,5 +63,6 @@ setup(
         'zope.component',
         'zope.interface',
         'zope.ramcache',
+        'zope.testing',
     ],
 )
